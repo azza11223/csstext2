@@ -1,0 +1,28 @@
+
+.grey {width: 290px;
+    height: 160px;
+    font-size: 16px;
+    color: rgba(119, 119, 119, 1);
+    font-size: 16px;
+    text-align: center;
+    
+
+}
+
+h4{ width: 1280px;
+    color: blue;
+    font-size: 16px;
+    text-align: center;
+    line-height: 19.36px;
+    padding-top: 20px;
+  
+}
+.red {
+    color: red;
+    width: 290px;
+    height: 160px;
+    text-align: justify;
+    padding-top: 50px;
+    padding-left: 72px;
+   font-size: 16px;
+   }
